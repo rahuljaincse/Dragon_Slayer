@@ -3,6 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+ /*Author RahulJain
+  *Game Is Just For Fun Based On Js
+  made by The Help Of Codecademy
+ */
 var slaying=true;
 youHit=Math.floor(Math.random()*2);
 damageThisRound=Math.random()*5+1;
